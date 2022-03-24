@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ooffkon
+- 👀 I’m interested in Python, C# Dev
